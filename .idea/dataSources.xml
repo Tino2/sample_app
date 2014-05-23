@@ -6,6 +6,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://127.0.0.1/sample_app_dev</jdbc-url>
       <user-name>tino_user</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails sample_app: test" uuid="fa060a7f-f2e8-4bf3-9b5f-6a6a928577b9">
@@ -13,6 +14,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://127.0.0.1/sample_app_test</jdbc-url>
       <user-name>tino_user</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
       <libraries />
     </data-source>
   </component>
