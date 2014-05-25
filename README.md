@@ -1,5 +1,5 @@
-# Ruby on Rails Tutorial: sample application
+# Aplicación de ejemplo de el Tutorial Ruby on Rails
 
-This is the sample application for
-the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
+Esta es una aplicación de ejemplo de el
+[*Tutorial Ruby on Rails*](http://railstutorial.org/)
+de [Michael Hartl](http://michaelhartl.com/).
