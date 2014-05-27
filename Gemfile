@@ -20,6 +20,9 @@ group :development, :test do
   gem 'guard-rspec', '2.5.0'
   gem 'cucumber-rails', '1.4.0', :require => false
   gem 'database_cleaner', github: 'bmabey/database_cleaner'
+  # The following optional lines are part of the advanced setup.
+  #gem 'guard-rspec', '2.5.0'
+
 end
 
 group :test do
